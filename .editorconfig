@@ -1,0 +1,16 @@
+# Default editorconfig for workspaces
+# Note: this is a naive placeholder for a more fine-grained configuration
+# https://EditorConfig.org
+
+# Top-most editorconfig
+root = true
+
+[*]
+charset = utf-8
+# Default indents of 2 spaces to keep the code concise
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+
+# Will probably be updated for some languages
+spaces_around_operators = true
